@@ -1,0 +1,16 @@
+Wedding Planner Company
+
+ Properties
+  6 props in Merseyside
+  4 props in Cheshire
+  5 props in North Wales
+ Each venue: with no of bedrooms
+	     type: single/double/premium
+	 lic type: lic/un-lic
+	 alcohol or drink reqd??
+	 gazebo for addl. fee(at some venues)
+	 free parking spaces(at some venues)
+
+	 catering: price/head
+	 c.option: 1-star and 5-star(price differs wrt stars)
+
